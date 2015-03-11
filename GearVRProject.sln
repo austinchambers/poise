@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GearVRProject", "Intermediate\ProjectFiles\GearVRProject.vcxproj", "{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DebugGame Editor|Android = DebugGame Editor|Android
+		DebugGame Editor|Windows = DebugGame Editor|Windows
+		DebugGame|Android = DebugGame|Android
+		DebugGame|Windows = DebugGame|Windows
+		Development Editor|Android = Development Editor|Android
+		Development Editor|Windows = Development Editor|Windows
+		Development|Android = Development|Android
+		Development|Windows = Development|Windows
+		Shipping|Android = Shipping|Android
+		Shipping|Windows = Shipping|Windows
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.DebugGame Editor|Android.ActiveCfg = Development_Game|x64
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.DebugGame Editor|Windows.ActiveCfg = DebugGame_Editor|x64
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.DebugGame Editor|Windows.Build.0 = DebugGame_Editor|x64
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.DebugGame|Android.ActiveCfg = DebugGame_Game|Tegra-Android
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.DebugGame|Android.Build.0 = DebugGame_Game|Tegra-Android
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.DebugGame|Windows.ActiveCfg = DebugGame_Game|x64
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.DebugGame|Windows.Build.0 = DebugGame_Game|x64
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.Development Editor|Android.ActiveCfg = Development_Game|x64
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.Development Editor|Windows.ActiveCfg = Development_Editor|x64
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.Development Editor|Windows.Build.0 = Development_Editor|x64
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.Development|Android.ActiveCfg = Development_Game|Tegra-Android
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.Development|Android.Build.0 = Development_Game|Tegra-Android
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.Development|Windows.ActiveCfg = Development_Game|x64
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.Development|Windows.Build.0 = Development_Game|x64
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.Shipping|Android.ActiveCfg = Shipping_Game|Tegra-Android
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.Shipping|Android.Build.0 = Shipping_Game|Tegra-Android
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.Shipping|Windows.ActiveCfg = Shipping_Game|Win32
+		{E2ACADC5-13E6-486F-BF3A-E4F4402E79DF}.Shipping|Windows.Build.0 = Shipping_Game|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
